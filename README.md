@@ -76,7 +76,7 @@ Answer the questions below:  <br/>
   ![image](https://github.com/user-attachments/assets/08238fe8-a056-4f93-884d-047e5779f158)
 
 <br />
-  I copied into CyberChef to decode from base64  
+  I copied and pasted it into CyberChef to decode from base64  
 
   ![image](https://github.com/user-attachments/assets/f1db8f77-d070-4e6c-8b39-b9b7486dcd00)
 
@@ -88,7 +88,7 @@ Answer the questions below:  <br/>
 
   
 <br />
-  But back in CyberChef, I defanged URL for safety
+  But back in CyberChef, I defanged the URL for safety
 
   ![image](https://github.com/user-attachments/assets/89f89b72-eccd-41e5-a41e-8ed836a253ea)
 
